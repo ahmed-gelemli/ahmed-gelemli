@@ -32,6 +32,20 @@ Portable deployment stack with automated SSL and Nginx reverse proxying — spin
 
 ---
 
+## AI-Augmented Development
+
+I use AI as a force multiplier — not a replacement for understanding what I ship. I architect, review, and own every decision; AI compresses the time to get there.
+
+| Tool | Usage |
+|---|---|
+| **Claude Code** | Primary coding assistant — ~13.9M tokens across active projects (Feb–May 2025) |
+| **Cursor** | Editor-integrated AI assistance, used extensively for months |
+| **Local models** | Simpler logical tasks and cost-efficient iteration |
+
+The pattern: frontier models for complex architecture and debugging, local models for routine work, always reviewing what gets committed.
+
+---
+
 ## Tech Stack
 
 **Languages**
