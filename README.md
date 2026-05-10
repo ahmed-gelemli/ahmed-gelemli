@@ -20,12 +20,7 @@ Currently open to backend, DevOps, and data engineering roles.
 
 **Data Engineering**
 
-<p>
-  <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Parquet-50ABF1?style=flat-square&logo=apache&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Apache%20Parquet-50ABF1?style=flat-square&logo=apache&logoColor=white" />
 
 **Databases & Tools**
 
